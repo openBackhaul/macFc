@@ -6,19 +6,19 @@
 - 1.0.0-tsp.d.t : 802.1Q-2018 based model for the Transport SDN Pilot at Telefonica Germany
 
 ### UML
-- to be provided
+- [MacFc_1.0.0-tsp.200826.0750b](./MacFc_1.0.0-tsp.200826.0750b.zip)
 
 ### Overview 
-- to be provided
+- [MacFc_1.0.0-tsp.200826.0750+overview.1](./MacFc_1.0.0-tsp.200826.0750+overview.1.png)
 
 ### GenDoc Export
-- to be provided
+- [MacFc_1.0.0-tsp.200826.0750+gendoc.1](./MacFc_1.0.0-tsp.200826.0750+gendoc.1.docx)
 
 ### Augmentation Condition
 - When statements in Augmentation statements demand for layerProtocolName==LAYER_PROTOCOL_NAME_TYPE_MAC_LAYER
 
 ### YANG File
-- to be provided
+- [MacFc_1.0.0-tsp.200826.0750b+yang.1](./MacFc_1.0.0-tsp.200826.0750b+yang.1.zip)
 
 ### JSON Schema
 - to be provided
