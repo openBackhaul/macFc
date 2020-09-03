@@ -19,6 +19,7 @@
 
 ### YANG File
 - [MacFc_1.0.0-tsp.200826.0750b+yang.1](./MacFc_1.0.0-tsp.200826.0750b+yang.1.zip)
+- [MacFc_1.0.0-tsp.200826.0750b+yang.2](./MacFc_1.0.0-tsp.200826.0750b+yang.2.zip) fixes [Issue#1](../../issues/1)
 
 ### JSON Schema
 - to be provided
